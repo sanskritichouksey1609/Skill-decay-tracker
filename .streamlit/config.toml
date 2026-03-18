@@ -1,0 +1,9 @@
+[server]
+runOnSave = true
+
+[client]
+showErrorDetails = true
+
+[runner]
+# Disable Streamlit's built-in multi-page app detection
+fastReruns = true
